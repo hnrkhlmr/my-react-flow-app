@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useRef } from 'react';
 import Select from 'react-select'; // Import react-select
 import {
   ReactFlow,
@@ -13,12 +13,15 @@ import CustomTableNode from './components/CustomTableNode';
 import '@xyflow/react/dist/style.css';
 import EntityService from './services/EntityService';
 import axios from 'axios';
+import { toPng } from 'html-to-image';  // Importing the html-to-image library
 
 const nodeTypes = {
   tableNode: CustomTableNode,
 };
 
 export default function App() {
+  const reactFlowWrapper = useRef(null);  // Create a reference to the ReactFlow wrapper
+  
   const [availableEntities, setAvailableEntities] = useState([]); // State to store available entities
   const [selectedEntities, setSelectedEntities] = useState([]); // State to store selected entities
   const [nodes, setNodes, onNodesChange] = useNodesState([]);
@@ -71,6 +74,28 @@ export default function App() {
     [setEdges],
   );
 
+  // Function to export the flow chart as an image
+  const exportAsImage = useCallback(() => {
+    if (reactFlowWrapper.current === null) {
+      return;
+    }
+
+    toPng(reactFlowWrapper.current, { cacheBust: true,
+      backgroundColor: '#fff'
+     })
+      .then((dataUrl) => {
+        const link = document.createElement('a');
+        link.href = dataUrl;
+        link.download = 'flow-model.png';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link); // Clean up after click
+      })
+      .catch((err) => {
+        console.error('Error exporting as image:', err);
+      });
+  }, []);
+
   if (loading) {
     return <div>Loading...</div>; // Show a loading indicator while data is being fetched
   }
@@ -87,18 +112,25 @@ export default function App() {
         />
       </div>
 
-      <ReactFlow
-        nodes={nodes}
-        nodeTypes={nodeTypes}
-        edges={edges}
-        onNodesChange={onNodesChange}
-        onEdgesChange={onEdgesChange}
-        onConnect={onConnect}
-      >
-        <Controls />
-        <MiniMap />
-        <Background variant="dots" gap={12} size={1} />
-      </ReactFlow>
+      
+      <div ref={reactFlowWrapper} style={{ width: '100%', height: '100%' }}>
+        <ReactFlow
+          nodes={nodes}
+          nodeTypes={nodeTypes}
+          edges={edges}
+          onNodesChange={onNodesChange}
+          onEdgesChange={onEdgesChange}
+          onConnect={onConnect}
+        >
+          <Controls />
+          <MiniMap />
+          <Background variant="dots" gap={25} size={1} />
+        </ReactFlow>
+      </div>
+      {/* Button to export the flow as an image */}
+      <button onClick={exportAsImage} style={{ position: 'absolute', top: 10, right: 10 }}>
+        Export as Image
+      </button>
     </div>
   );
 }
