@@ -1,0 +1,298 @@
+[
+  {
+    "entityid": "608861bc-50a4-4c5f-a02c-21fe1943e2cf",
+    "logicalcollectionname": "contacts",
+    "logicalname": "contact"
+  },
+  {
+    "entityid": "c1961a14-d4e6-470c-8d1e-23ae6b1bbb8d",
+    "logicalcollectionname": "annotations",
+    "logicalname": "annotation"
+  },
+  {
+    "entityid": "95ae88b3-cc0c-45ac-a2db-655dceec238b",
+    "logicalcollectionname": "emails",
+    "logicalname": "email"
+  },
+  {
+    "entityid": "70816501-edb9-4740-a16c-6a5efbc05d84",
+    "logicalcollectionname": "accounts",
+    "logicalname": "account"
+  },
+  {
+    "entityid": "78e45d5e-f22b-4e20-813f-6cd2a3777968",
+    "logicalcollectionname": "tasks",
+    "logicalname": "task"
+  },
+  {
+    "entityid": "21538890-1e54-4171-aca8-7ec97a9c652c",
+    "logicalcollectionname": "phonecalls",
+    "logicalname": "phonecall"
+  },
+  {
+    "entityid": "c821cd41-f315-43d1-8fa6-82787b6f06e7",
+    "logicalcollectionname": "activitypointers",
+    "logicalname": "activitypointer",
+    "originallocalizedcollectionname": "Activities",
+    "originallocalizedname": "Activity"
+  },
+  {
+    "entityid": "36b8628d-5430-4fdc-b767-60a2ef4a713e",
+    "logicalcollectionname": "b3_employments",
+    "logicalname": "b3_employment",
+    "originallocalizedcollectionname": "Anställningar",
+    "originallocalizedname": "Anställning"
+  },
+  {
+    "entityid": "18111641-6e92-4193-915f-35cf2b664f0c",
+    "logicalcollectionname": "b3_form_of_employments",
+    "logicalname": "b3_form_of_employment",
+    "originallocalizedcollectionname": "Anställningsformer",
+    "originallocalizedname": "Anställningsform"
+  },
+  {
+    "entityid": "b2b0f510-03fc-45a7-8605-4b922b776b0e",
+    "logicalcollectionname": "b3_agreements",
+    "logicalname": "b3_agreement",
+    "originallocalizedcollectionname": "Avtal",
+    "originallocalizedname": "Avtal"
+  },
+  {
+    "entityid": "b0a65725-01e4-4ade-b7ca-496156d5484d",
+    "logicalcollectionname": "b3_agreement_areas",
+    "logicalname": "b3_agreement_area",
+    "originallocalizedcollectionname": "Avtalsområden",
+    "originallocalizedname": "Avtalsområde"
+  },
+  {
+    "entityid": "43b951f3-cc57-4df3-bc5f-7c8ae87e8e96",
+    "logicalcollectionname": "b3_payment_methods",
+    "logicalname": "b3_payment_method",
+    "originallocalizedcollectionname": "Betalsätt",
+    "originallocalizedname": "Betalsätt"
+  },
+  {
+    "entityid": "9438cecc-e55b-4a84-8f2e-eb580f144d91",
+    "logicalcollectionname": "msevtmgt_events",
+    "logicalname": "msevtmgt_event",
+    "originallocalizedcollectionname": "Event",
+    "originallocalizedname": "Event"
+  },
+  {
+    "entityid": "9b80305b-c6e4-4d04-9ed0-080c61c26006",
+    "logicalcollectionname": "msdyn_actuals",
+    "logicalname": "msdyn_actual",
+    "originallocalizedcollectionname": "Faktiska värden",
+    "originallocalizedname": "Faktiskt värde"
+  },
+  {
+    "entityid": "bdf4afd3-fb9f-4d02-a46a-94edbdb9fcc3",
+    "logicalcollectionname": "b3_services",
+    "logicalname": "b3_service",
+    "originallocalizedcollectionname": "Förmåner",
+    "originallocalizedname": "Förmån"
+  },
+  {
+    "entityid": "45a7607a-0f87-438f-a08a-e61d4c06174d",
+    "logicalcollectionname": "na_deletions",
+    "logicalname": "na_deletion",
+    "originallocalizedcollectionname": "Gallringar",
+    "originallocalizedname": "Gallring"
+  },
+  {
+    "entityid": "fb2649e9-7687-405d-b21e-63f6334b9188",
+    "logicalcollectionname": "b3_programs",
+    "logicalname": "b3_program",
+    "originallocalizedcollectionname": "Inriktning",
+    "originallocalizedname": "Inriktning"
+  },
+  {
+    "entityid": "b8739223-16c2-48c4-808c-b7b0798c5373",
+    "logicalcollectionname": "b3_entries",
+    "logicalname": "b3_entry",
+    "originallocalizedcollectionname": "Inträden",
+    "originallocalizedname": "Inträde"
+  },
+  {
+    "entityid": "ef466bff-8214-4a58-a783-72d107ca9818",
+    "logicalcollectionname": "msdyn_iotdevices",
+    "logicalname": "msdyn_iotdevice",
+    "originallocalizedcollectionname": "IoT-enheter",
+    "originallocalizedname": "IoT-enhet"
+  },
+  {
+    "entityid": "ffcfda87-45ca-4c10-9314-3d6d04c3b012",
+    "logicalcollectionname": "b3_municipalities",
+    "logicalname": "b3_municipality",
+    "originallocalizedcollectionname": "Kommuner",
+    "originallocalizedname": "Kommun"
+  },
+  {
+    "entityid": "51bcd40b-1bd6-42f5-bbd2-99667660cdd9",
+    "logicalcollectionname": "b3_configurations",
+    "logicalname": "b3_configuration",
+    "originallocalizedcollectionname": "Konfigurationer",
+    "originallocalizedname": "Konfiguration"
+  },
+  {
+    "entityid": "e8d2a00b-5f1c-4649-8869-41f46b04331d",
+    "logicalcollectionname": "msdyn_customerassets",
+    "logicalname": "msdyn_customerasset",
+    "originallocalizedcollectionname": "Kundtillgångar",
+    "originallocalizedname": "Kundtillgång"
+  },
+  {
+    "entityid": "14ee09b2-98e9-4ff8-800a-5aa8affef265",
+    "logicalcollectionname": "b3_countries",
+    "logicalname": "b3_country",
+    "originallocalizedcollectionname": "Länder",
+    "originallocalizedname": "Land"
+  },
+  {
+    "entityid": "dc6574cb-92ce-446c-a5d6-885a75107d52",
+    "logicalcollectionname": "leads",
+    "logicalname": "lead",
+    "originallocalizedcollectionname": "Leads",
+    "originallocalizedname": "Lead"
+  },
+  {
+    "entityid": "d7c3fe85-7c8b-47fb-abe9-1710ad50e92b",
+    "logicalcollectionname": "b3_counties",
+    "logicalname": "b3_county",
+    "originallocalizedcollectionname": "Län",
+    "originallocalizedname": "Län"
+  },
+  {
+    "entityid": "3371760a-deaa-48a0-925b-108f7dfc3e4a",
+    "logicalcollectionname": "b3_salaries",
+    "logicalname": "b3_salary",
+    "originallocalizedcollectionname": "Löner",
+    "originallocalizedname": "Lön"
+  },
+  {
+    "entityid": "13a354bb-14d4-4ea9-ab85-397cc61127be",
+    "logicalcollectionname": "b3_membership_types",
+    "logicalname": "b3_membership_type",
+    "originallocalizedcollectionname": "Medlemsform",
+    "originallocalizedname": "Medlemsform"
+  },
+  {
+    "entityid": "6833f5ed-7f07-41ea-addd-4c3134502a48",
+    "logicalcollectionname": "b3_memberships",
+    "logicalname": "b3_membership",
+    "originallocalizedcollectionname": "Medlemskap",
+    "originallocalizedname": "Medlemskap"
+  },
+  {
+    "entityid": "edd8ea5b-350d-4d45-9ba1-fe1dc27f42d6",
+    "logicalcollectionname": "b3_organizations",
+    "logicalname": "b3_organization",
+    "originallocalizedcollectionname": "Organisationer",
+    "originallocalizedname": "Organisation"
+  },
+  {
+    "entityid": "27427f6a-6bfd-4a9c-b697-b87dfd866c42",
+    "logicalcollectionname": "b3_organization_types",
+    "logicalname": "b3_organization_type",
+    "originallocalizedcollectionname": "Organisationstyper",
+    "originallocalizedname": "Organisationstyp"
+  },
+  {
+    "entityid": "b3498c37-5947-4a9f-a479-63f007a81815",
+    "logicalcollectionname": "na_person_web_roles",
+    "logicalname": "na_person_web_role",
+    "originallocalizedcollectionname": "Persons webbroller",
+    "originallocalizedname": "Persons webroll"
+  },
+  {
+    "entityid": "ede30afd-9c54-4020-bfdc-7909be1e623f",
+    "logicalcollectionname": "b3_subscriptions",
+    "logicalname": "b3_subscription",
+    "originallocalizedcollectionname": "Prenumerationer",
+    "originallocalizedname": "Prenumeration"
+  },
+  {
+    "entityid": "ed008c9c-9f4f-4e28-8449-82feac939cd6",
+    "logicalcollectionname": "b3_rmc_change_memberships",
+    "logicalname": "b3_rmc_change_membership",
+    "originallocalizedcollectionname": "RMC - Medlemskap: Ändra medlemskap",
+    "originallocalizedname": "RMC - Medlemskap: Ändra medlemskap"
+  },
+  {
+    "entityid": "c8dce016-f9f0-4a23-ae24-87422b9faeda",
+    "logicalcollectionname": "b3_schools",
+    "logicalname": "b3_school",
+    "originallocalizedcollectionname": "Skolor",
+    "originallocalizedname": "Skola"
+  },
+  {
+    "entityid": "47a7dd5c-03ad-4399-8d82-7d9b9c3dc0ea",
+    "logicalcollectionname": "b3_employment_categories",
+    "logicalname": "b3_employment_category",
+    "originallocalizedcollectionname": "Sysselsättningskategorier",
+    "originallocalizedname": "Sysselsättningskategori"
+  },
+  {
+    "entityid": "54eb6c98-8d70-4998-82fe-77bf97e47d85",
+    "logicalcollectionname": "b3_subcategories",
+    "logicalname": "b3_subcategory",
+    "originallocalizedcollectionname": "Underkategorier",
+    "originallocalizedname": "Underkategori"
+  },
+  {
+    "entityid": "b97e59c0-ec57-4271-9871-3a925891264c",
+    "logicalcollectionname": "b3_assignments",
+    "logicalname": "b3_assignment",
+    "originallocalizedcollectionname": "Uppdrag",
+    "originallocalizedname": "Uppdrag"
+  },
+  {
+    "entityid": "9bb8e579-7fe4-4dfa-9031-c6c12fce20d9",
+    "logicalcollectionname": "b3_assignment_types",
+    "logicalname": "b3_assignment_type",
+    "originallocalizedcollectionname": "Uppdragstyper",
+    "originallocalizedname": "Uppdragstyp"
+  },
+  {
+    "entityid": "81e3aa12-c30f-4da9-ba2c-9cebe15a3e0d",
+    "logicalcollectionname": "b3_educations",
+    "logicalname": "b3_education",
+    "originallocalizedcollectionname": "Utbildningar",
+    "originallocalizedname": "Utbildning"
+  },
+  {
+    "entityid": "2f169a59-9360-4765-910f-59f9faf1207e",
+    "logicalcollectionname": "b3_reasons",
+    "logicalname": "b3_reason",
+    "originallocalizedcollectionname": "Utträdesorsaker",
+    "originallocalizedname": "Utträdesorsak"
+  },
+  {
+    "entityid": "53a6bd3c-32f2-4000-88d2-4cfc9336d8d5",
+    "logicalcollectionname": "na_web_roles",
+    "logicalname": "na_web_role",
+    "originallocalizedcollectionname": "Webbroller",
+    "originallocalizedname": "Webroll"
+  },
+  {
+    "entityid": "95a23653-96f4-407e-969f-fb949dfad562",
+    "logicalcollectionname": "b3_occupational_titles",
+    "logicalname": "b3_occupational_title",
+    "originallocalizedcollectionname": "Yrkestitlar",
+    "originallocalizedname": "Yrkestitel"
+  },
+  {
+    "entityid": "e3fe4ff2-a630-49bb-a1e9-debc3a076815",
+    "logicalcollectionname": "incidents",
+    "logicalname": "incident",
+    "originallocalizedcollectionname": "Ärenden",
+    "originallocalizedname": "Ärende"
+  },
+  {
+    "entityid": "d7ccb670-32ed-4150-b004-1957f3279d99",
+    "logicalcollectionname": "b3_incident_types",
+    "logicalname": "b3_incident_type",
+    "originallocalizedcollectionname": "Ärendetyper",
+    "originallocalizedname": "Ärendetyp"
+  }
+]

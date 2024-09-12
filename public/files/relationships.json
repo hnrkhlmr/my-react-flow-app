@@ -1,0 +1,1101 @@
+[
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "emailsender",
+      "referencingEntity": "email",
+      "metadataId": "00ed57ad-1f2b-405d-9142-65d2f4298447"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "task",
+      "metadataId": "323155a4-a4a9-409b-81e0-38bc0c521b36"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "masterid",
+      "referencingEntity": "contact",
+      "metadataId": "b39af6d6-8fdc-473a-add2-52ce18134c65"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "objectid",
+      "referencingEntity": "annotation",
+      "metadataId": "249177a6-9ff0-4d5f-acad-4f7c23f81839"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "activitypointer",
+      "metadataId": "48f82b1a-8ad8-44bd-90d9-15e7b3c4f263"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "primarycontactid",
+      "referencingEntity": "account",
+      "metadataId": "410707b1-9554-4cd9-8437-6608b1802904"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "email",
+      "metadataId": "695c5e4d-7fb6-4102-89ff-f0850df9ac07"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "phonecall",
+      "metadataId": "66b6d0af-970a-40c9-a0f4-2838936ea5ce"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "parentcustomerid",
+      "referencingEntity": "contact",
+      "metadataId": "df70b587-2164-433a-a551-e577fcb1c644"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "customerid",
+      "referencingEntity": "lead",
+      "metadataId": "0091a78f-8584-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "parentcontactid",
+      "referencingEntity": "lead",
+      "metadataId": "3a91a78f-8584-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "responsiblecontactid",
+      "referencingEntity": "incident",
+      "metadataId": "68742a76-8884-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "customerid",
+      "referencingEntity": "incident",
+      "metadataId": "7f742a76-8884-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "primarycontactid",
+      "referencingEntity": "incident",
+      "metadataId": "87742a76-8884-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "parent_contactid",
+      "referencingEntity": "contact",
+      "metadataId": "af031732-6fda-eb11-bacb-000d3ad99c28"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "msgdpr_gdprparentid",
+      "referencingEntity": "contact",
+      "metadataId": "a7963f81-8898-eb11-b1ac-000d3ade9ab1"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "b3_contact_id",
+      "referencingEntity": "b3_entry",
+      "metadataId": "6d040294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "msa_partnercontactid",
+      "referencingEntity": "incident",
+      "metadataId": "e0395010-fba8-ec11-9840-000d3ab6a8e7"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "na_gallraradid",
+      "referencingEntity": "na_deletion",
+      "metadataId": "cc78e39e-36a9-ec11-9840-000d3abad968"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "b3_contact",
+      "referencingEntity": "b3_assignment",
+      "metadataId": "13040294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "b3_contact_id",
+      "referencingEntity": "b3_education",
+      "metadataId": "53040294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "b3_contact_id",
+      "referencingEntity": "b3_employment",
+      "metadataId": "63040294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "b3_contact_id",
+      "referencingEntity": "b3_membership",
+      "metadataId": "8e040294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "b3_contact_id",
+      "referencingEntity": "b3_payment_method",
+      "metadataId": "bb040294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "b3_customer_id",
+      "referencingEntity": "b3_subscription",
+      "metadataId": "d1040294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "msdyn_contactcustomer",
+      "referencingEntity": "msdyn_actual",
+      "metadataId": "f4747d56-9784-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "msdyn_contactvendor",
+      "referencingEntity": "msdyn_actual",
+      "metadataId": "fd747d56-9784-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "contactid",
+      "referencedEntity": "contact",
+      "referencingAttribute": "na_personid",
+      "referencingEntity": "na_person_web_role",
+      "metadataId": "9be97b08-bba0-ee11-be37-0022489fd4e4"
+    },
+    {
+      "referencedAttribute": "activityid",
+      "referencedEntity": "email",
+      "referencingAttribute": "objectid",
+      "referencingEntity": "annotation",
+      "metadataId": "971ad134-0803-412a-a10e-90223149e8e3"
+    },
+    {
+      "referencedAttribute": "activityid",
+      "referencedEntity": "email",
+      "referencingAttribute": "parentactivityid",
+      "referencingEntity": "email",
+      "metadataId": "79f44982-28e0-4a0f-943e-f9e59cf5d9b8"
+    },
+    {
+      "referencedAttribute": "activityid",
+      "referencedEntity": "email",
+      "referencingAttribute": "correlatedactivityid",
+      "referencingEntity": "email",
+      "metadataId": "083c8951-8284-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "activityid",
+      "referencedEntity": "email",
+      "referencingAttribute": "na_gallraradid",
+      "referencingEntity": "na_deletion",
+      "metadataId": "d878e39e-36a9-ec11-9840-000d3abad968"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "task",
+      "metadataId": "d4c7f132-a91c-4d16-952d-82eb7932504a"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "activitypointer",
+      "metadataId": "9cdbdcea-b5ee-4a8d-b875-050d455757bd"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "sendersaccount",
+      "referencingEntity": "email",
+      "metadataId": "ad634653-9d42-450a-8b16-0c035113b4c3"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "email",
+      "metadataId": "fc41359e-b78a-457e-a064-cde4e4b4bf7f"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "phonecall",
+      "metadataId": "9b4f4019-bdc2-4dd7-9b18-58c2d087a27d"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "objectid",
+      "referencingEntity": "annotation",
+      "metadataId": "57512d8c-b06d-477e-b28a-0e7fa4d77cf8"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "emailsender",
+      "referencingEntity": "email",
+      "metadataId": "a5508e2d-4089-4a54-bf6e-0c093fc76c88"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "parentaccountid",
+      "referencingEntity": "account",
+      "metadataId": "57511732-b553-4cfb-bcf2-d280f9f8c6f1"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "parentcustomerid",
+      "referencingEntity": "contact",
+      "metadataId": "dc9b80f8-c781-46d8-9fd6-a3b610836975"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "masterid",
+      "referencingEntity": "account",
+      "metadataId": "51fa4af7-93d0-4f06-8949-38a0036ddc64"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "customerid",
+      "referencingEntity": "lead",
+      "metadataId": "ef90a78f-8584-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "parentaccountid",
+      "referencingEntity": "lead",
+      "metadataId": "3591a78f-8584-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "customerid",
+      "referencingEntity": "incident",
+      "metadataId": "ad092b70-8884-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "msa_managingpartnerid",
+      "referencingEntity": "account",
+      "metadataId": "a0ee0aa1-faa8-ec11-9840-000d3abad968"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "msa_managingpartnerid",
+      "referencingEntity": "contact",
+      "metadataId": "a9ee0aa1-faa8-ec11-9840-000d3abad968"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "b3_account_id",
+      "referencingEntity": "b3_entry",
+      "metadataId": "4e030294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "b3_counterpart",
+      "referencingEntity": "incident",
+      "metadataId": "0d61f325-1bc2-eb11-bacc-000d3ab9f193"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "msa_partnerid",
+      "referencingEntity": "incident",
+      "metadataId": "c4395010-fba8-ec11-9840-000d3ab6a8e7"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "na_main_site_id",
+      "referencingEntity": "contact",
+      "metadataId": "17c7ac74-8d5e-ec11-8f8f-000d3ad7d2d5"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "na_gallraradid",
+      "referencingEntity": "na_deletion",
+      "metadataId": "a378e39e-36a9-ec11-9840-000d3abad968"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "b3_account",
+      "referencingEntity": "b3_agreement",
+      "metadataId": "235d078e-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "b3_account_id",
+      "referencingEntity": "b3_employment",
+      "metadataId": "4a5d078e-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "b3_customer_id",
+      "referencingEntity": "b3_subscription",
+      "metadataId": "98030294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "b3_account",
+      "referencingEntity": "b3_assignment",
+      "metadataId": "e4030294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "msdyn_accountcustomer",
+      "referencingEntity": "msdyn_actual",
+      "metadataId": "53747d56-9784-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "msdyn_accountvendor",
+      "referencingEntity": "msdyn_actual",
+      "metadataId": "5c747d56-9784-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "msdyn_account",
+      "referencingEntity": "msdyn_customerasset",
+      "metadataId": "8e1e52c1-8a84-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "accountid",
+      "referencedEntity": "account",
+      "referencingAttribute": "msdyn_account",
+      "referencingEntity": "msdyn_iotdevice",
+      "metadataId": "44d4f320-8b84-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "activityid",
+      "referencedEntity": "task",
+      "referencingAttribute": "objectid",
+      "referencingEntity": "annotation",
+      "metadataId": "598e7aec-f694-4be0-a5b2-8d0d8cae2021"
+    },
+    {
+      "referencedAttribute": "activityid",
+      "referencedEntity": "task",
+      "referencingAttribute": "na_gallraradid",
+      "referencingEntity": "na_deletion",
+      "metadataId": "f878e39e-36a9-ec11-9840-000d3abad968"
+    },
+    {
+      "referencedAttribute": "activityid",
+      "referencedEntity": "phonecall",
+      "referencingAttribute": "objectid",
+      "referencingEntity": "annotation",
+      "metadataId": "c06446a6-a5d1-4d88-bf87-e499d7ab4695"
+    },
+    {
+      "referencedAttribute": "activityid",
+      "referencedEntity": "phonecall",
+      "referencingAttribute": "na_gallraradid",
+      "referencingEntity": "na_deletion",
+      "metadataId": "f078e39e-36a9-ec11-9840-000d3abad968"
+    },
+    {
+      "referencedAttribute": "activityid",
+      "referencedEntity": "activitypointer",
+      "referencingAttribute": "activityid",
+      "referencingEntity": "phonecall",
+      "metadataId": "c42056b5-47b7-4585-915b-afb98652a904"
+    },
+    {
+      "referencedAttribute": "activityid",
+      "referencedEntity": "activitypointer",
+      "referencingAttribute": "activityid",
+      "referencingEntity": "email",
+      "metadataId": "fc3ff650-2f51-4320-9730-2690e21bdfce"
+    },
+    {
+      "referencedAttribute": "activityid",
+      "referencedEntity": "activitypointer",
+      "referencingAttribute": "activityid",
+      "referencingEntity": "task",
+      "metadataId": "b64c80f9-ab03-4062-9a10-a725b792c124"
+    },
+    {
+      "referencedAttribute": "b3_employmentid",
+      "referencedEntity": "b3_employment",
+      "referencingAttribute": "na_gallraradid",
+      "referencingEntity": "na_deletion",
+      "metadataId": "b278e39e-36a9-ec11-9840-000d3abad968"
+    },
+    {
+      "referencedAttribute": "b3_employmentid",
+      "referencedEntity": "b3_employment",
+      "referencingAttribute": "b3_employment_id",
+      "referencingEntity": "b3_salary",
+      "metadataId": "56050294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_form_of_employmentid",
+      "referencedEntity": "b3_form_of_employment",
+      "referencingAttribute": "b3_form_of_employment_id",
+      "referencingEntity": "b3_entry",
+      "metadataId": "ab050294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_form_of_employmentid",
+      "referencedEntity": "b3_form_of_employment",
+      "referencingAttribute": "b3_form_of_employment_id",
+      "referencingEntity": "b3_employment",
+      "metadataId": "93050294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_agreement_areaid",
+      "referencedEntity": "b3_agreement_area",
+      "referencingAttribute": "na_agreement_area_id",
+      "referencingEntity": "account",
+      "metadataId": "9783b46e-8d5e-ec11-8f8f-000d3ad7d2d5"
+    },
+    {
+      "referencedAttribute": "b3_agreement_areaid",
+      "referencedEntity": "b3_agreement_area",
+      "referencingAttribute": "na_agreement_area",
+      "referencingEntity": "incident",
+      "metadataId": "bae25a60-1dc2-eb11-bacc-000d3ab9f193"
+    },
+    {
+      "referencedAttribute": "b3_agreement_areaid",
+      "referencedEntity": "b3_agreement_area",
+      "referencingAttribute": "b3_agreement_area",
+      "referencingEntity": "b3_agreement",
+      "metadataId": "cf030294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "msevtmgt_eventid",
+      "referencedEntity": "msevtmgt_event",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "activitypointer",
+      "metadataId": "97d2ee4a-7c98-eb11-b1ac-000d3ade93ee"
+    },
+    {
+      "referencedAttribute": "msevtmgt_eventid",
+      "referencedEntity": "msevtmgt_event",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "email",
+      "metadataId": "0c10e750-7c98-eb11-b1ac-000d3ade93ee"
+    },
+    {
+      "referencedAttribute": "msevtmgt_eventid",
+      "referencedEntity": "msevtmgt_event",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "phonecall",
+      "metadataId": "1810e750-7c98-eb11-b1ac-000d3ade93ee"
+    },
+    {
+      "referencedAttribute": "msevtmgt_eventid",
+      "referencedEntity": "msevtmgt_event",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "task",
+      "metadataId": "1c10e750-7c98-eb11-b1ac-000d3ade93ee"
+    },
+    {
+      "referencedAttribute": "msevtmgt_eventid",
+      "referencedEntity": "msevtmgt_event",
+      "referencingAttribute": "objectid",
+      "referencingEntity": "annotation",
+      "metadataId": "2810e750-7c98-eb11-b1ac-000d3ade93ee"
+    },
+    {
+      "referencedAttribute": "msevtmgt_eventid",
+      "referencedEntity": "msevtmgt_event",
+      "referencingAttribute": "msevtmgt_originatingeventid",
+      "referencingEntity": "contact",
+      "metadataId": "342e63d9-7c98-eb11-b1ac-000d3ade93ee"
+    },
+    {
+      "referencedAttribute": "msevtmgt_eventid",
+      "referencedEntity": "msevtmgt_event",
+      "referencingAttribute": "msevtmgt_originatingeventid",
+      "referencingEntity": "lead",
+      "metadataId": "20f56ad3-7c98-eb11-b1ac-000d3ade93ee"
+    },
+    {
+      "referencedAttribute": "msdyn_actualid",
+      "referencedEntity": "msdyn_actual",
+      "referencingAttribute": "objectid",
+      "referencingEntity": "annotation",
+      "metadataId": "bf96c926-9784-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "b3_serviceid",
+      "referencedEntity": "b3_service",
+      "referencingAttribute": "b3_service_id",
+      "referencingEntity": "b3_subscription",
+      "metadataId": "d24afa99-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_programid",
+      "referencedEntity": "b3_program",
+      "referencingAttribute": "b3_program_id",
+      "referencingEntity": "b3_entry",
+      "metadataId": "994afa99-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_programid",
+      "referencedEntity": "b3_program",
+      "referencingAttribute": "na_program_higher_education_id",
+      "referencingEntity": "b3_entry",
+      "metadataId": "bfcf9d9b-2fa8-eb11-b1ae-000d3ad98f13"
+    },
+    {
+      "referencedAttribute": "b3_programid",
+      "referencedEntity": "b3_program",
+      "referencingAttribute": "b3_program_id",
+      "referencingEntity": "b3_education",
+      "metadataId": "8e4afa99-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_entryid",
+      "referencedEntity": "b3_entry",
+      "referencingAttribute": "objectid",
+      "referencingEntity": "annotation",
+      "metadataId": "f89e226a-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "msdyn_iotdeviceid",
+      "referencedEntity": "msdyn_iotdevice",
+      "referencingAttribute": "objectid",
+      "referencingEntity": "annotation",
+      "metadataId": "1ccc33fc-8a84-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "b3_municipalityid",
+      "referencedEntity": "b3_municipality",
+      "referencingAttribute": "b3_municipality",
+      "referencingEntity": "account",
+      "metadataId": "1e8b7e7a-dbb6-eb11-8236-0022489ac7b5"
+    },
+    {
+      "referencedAttribute": "b3_municipalityid",
+      "referencedEntity": "b3_municipality",
+      "referencingAttribute": "b3_municipality",
+      "referencingEntity": "contact",
+      "metadataId": "938b7e7a-dbb6-eb11-8236-0022489ac7b5"
+    },
+    {
+      "referencedAttribute": "msdyn_customerassetid",
+      "referencedEntity": "msdyn_customerasset",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "activitypointer",
+      "metadataId": "e5f844b5-8a84-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "msdyn_customerassetid",
+      "referencedEntity": "msdyn_customerasset",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "email",
+      "metadataId": "11f944b5-8a84-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "msdyn_customerassetid",
+      "referencedEntity": "msdyn_customerasset",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "phonecall",
+      "metadataId": "1df944b5-8a84-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "msdyn_customerassetid",
+      "referencedEntity": "msdyn_customerasset",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "task",
+      "metadataId": "21f944b5-8a84-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "msdyn_customerassetid",
+      "referencedEntity": "msdyn_customerasset",
+      "referencingAttribute": "objectid",
+      "referencingEntity": "annotation",
+      "metadataId": "35f944b5-8a84-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "msdyn_customerassetid",
+      "referencedEntity": "msdyn_customerasset",
+      "referencingAttribute": "msdyn_masterasset",
+      "referencingEntity": "msdyn_customerasset",
+      "metadataId": "af1e52c1-8a84-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "msdyn_customerassetid",
+      "referencedEntity": "msdyn_customerasset",
+      "referencingAttribute": "msdyn_parentasset",
+      "referencingEntity": "msdyn_customerasset",
+      "metadataId": "b81e52c1-8a84-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "b3_countryid",
+      "referencedEntity": "b3_country",
+      "referencingAttribute": "b3_country_id",
+      "referencingEntity": "b3_entry",
+      "metadataId": "a6b6f81f-1bc2-eb11-bacc-000d3ab9f193"
+    },
+    {
+      "referencedAttribute": "b3_countryid",
+      "referencedEntity": "b3_country",
+      "referencingAttribute": "b3_country_id",
+      "referencingEntity": "account",
+      "metadataId": "9c62d765-f1be-eb11-bacc-000d3ab790a8"
+    },
+    {
+      "referencedAttribute": "b3_countryid",
+      "referencedEntity": "b3_country",
+      "referencingAttribute": "b3_country_id",
+      "referencingEntity": "contact",
+      "metadataId": "ac62d765-f1be-eb11-bacc-000d3ab790a8"
+    },
+    {
+      "referencedAttribute": "leadid",
+      "referencedEntity": "lead",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "activitypointer",
+      "metadataId": "d1b7ca85-8584-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "leadid",
+      "referencedEntity": "lead",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "email",
+      "metadataId": "7e90a78f-8584-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "leadid",
+      "referencedEntity": "lead",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "phonecall",
+      "metadataId": "8a90a78f-8584-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "leadid",
+      "referencedEntity": "lead",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "task",
+      "metadataId": "8e90a78f-8584-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "leadid",
+      "referencedEntity": "lead",
+      "referencingAttribute": "objectid",
+      "referencingEntity": "annotation",
+      "metadataId": "a290a78f-8584-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "leadid",
+      "referencedEntity": "lead",
+      "referencingAttribute": "emailsender",
+      "referencingEntity": "email",
+      "metadataId": "1a91a78f-8584-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "leadid",
+      "referencedEntity": "lead",
+      "referencingAttribute": "masterid",
+      "referencingEntity": "lead",
+      "metadataId": "3091a78f-8584-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "leadid",
+      "referencedEntity": "lead",
+      "referencingAttribute": "originatingleadid",
+      "referencingEntity": "account",
+      "metadataId": "5691a78f-8584-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "leadid",
+      "referencedEntity": "lead",
+      "referencingAttribute": "originatingleadid",
+      "referencingEntity": "contact",
+      "metadataId": "5e91a78f-8584-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "b3_countyid",
+      "referencedEntity": "b3_county",
+      "referencingAttribute": "b3_county",
+      "referencingEntity": "account",
+      "metadataId": "24e56474-dbb6-eb11-8236-0022489ac7b5"
+    },
+    {
+      "referencedAttribute": "b3_countyid",
+      "referencedEntity": "b3_county",
+      "referencingAttribute": "b3_county",
+      "referencingEntity": "contact",
+      "metadataId": "818b7e7a-dbb6-eb11-8236-0022489ac7b5"
+    },
+    {
+      "referencedAttribute": "b3_membership_typeid",
+      "referencedEntity": "b3_membership_type",
+      "referencingAttribute": "b3_membership_form_id",
+      "referencingEntity": "b3_entry",
+      "metadataId": "fd050294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_membership_typeid",
+      "referencedEntity": "b3_membership_type",
+      "referencingAttribute": "b3_membership_type_id",
+      "referencingEntity": "b3_membership",
+      "metadataId": "1d060294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_membership_typeid",
+      "referencedEntity": "b3_membership_type",
+      "referencingAttribute": "na_new_sub_membership_type_id",
+      "referencingEntity": "b3_membership",
+      "metadataId": "9eff2718-3a2c-ec11-b6e5-000d3aba9786"
+    },
+    {
+      "referencedAttribute": "b3_membership_typeid",
+      "referencedEntity": "b3_membership_type",
+      "referencingAttribute": "b3_new_membership_type_id",
+      "referencingEntity": "b3_membership",
+      "metadataId": "0d4afa99-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_membershipid",
+      "referencedEntity": "b3_membership",
+      "referencingAttribute": "objectid",
+      "referencingEntity": "annotation",
+      "metadataId": "4c481d70-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_membershipid",
+      "referencedEntity": "b3_membership",
+      "referencingAttribute": "na_gallraradid",
+      "referencingEntity": "na_deletion",
+      "metadataId": "be78e39e-36a9-ec11-9840-000d3abad968"
+    },
+    {
+      "referencedAttribute": "b3_membershipid",
+      "referencedEntity": "b3_membership",
+      "referencingAttribute": "b3_membership_id",
+      "referencingEntity": "b3_education",
+      "metadataId": "d2050294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_membershipid",
+      "referencedEntity": "b3_membership",
+      "referencingAttribute": "b3_main_membership_id",
+      "referencingEntity": "b3_membership",
+      "metadataId": "e8050294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_membershipid",
+      "referencedEntity": "b3_membership",
+      "referencingAttribute": "bpf_b3_membershipid",
+      "referencingEntity": "b3_rmc_change_membership",
+      "metadataId": "f74afa99-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_organizationid",
+      "referencedEntity": "b3_organization",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "activitypointer",
+      "metadataId": "0b4d90c4-d1d8-eb11-bacb-000d3ad99c28"
+    },
+    {
+      "referencedAttribute": "b3_organizationid",
+      "referencedEntity": "b3_organization",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "email",
+      "metadataId": "444d90c4-d1d8-eb11-bacb-000d3ad99c28"
+    },
+    {
+      "referencedAttribute": "b3_organizationid",
+      "referencedEntity": "b3_organization",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "phonecall",
+      "metadataId": "504d90c4-d1d8-eb11-bacb-000d3ad99c28"
+    },
+    {
+      "referencedAttribute": "b3_organizationid",
+      "referencedEntity": "b3_organization",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "task",
+      "metadataId": "574d90c4-d1d8-eb11-bacb-000d3ad99c28"
+    },
+    {
+      "referencedAttribute": "b3_organizationid",
+      "referencedEntity": "b3_organization",
+      "referencingAttribute": "objectid",
+      "referencingEntity": "annotation",
+      "metadataId": "6f4d90c4-d1d8-eb11-bacb-000d3ad99c28"
+    },
+    {
+      "referencedAttribute": "b3_organizationid",
+      "referencedEntity": "b3_organization",
+      "referencingAttribute": "na_responsible_union_id",
+      "referencingEntity": "account",
+      "metadataId": "67a5c529-38be-eb11-bacc-000d3ab790a8"
+    },
+    {
+      "referencedAttribute": "b3_organizationid",
+      "referencedEntity": "b3_organization",
+      "referencingAttribute": "b3_organization",
+      "referencingEntity": "account",
+      "metadataId": "cf866468-84da-eb11-bacb-000d3ad99d04"
+    },
+    {
+      "referencedAttribute": "b3_organizationid",
+      "referencedEntity": "b3_organization",
+      "referencingAttribute": "b3_organization",
+      "referencingEntity": "b3_agreement_area",
+      "metadataId": "724afa99-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_organizationid",
+      "referencedEntity": "b3_organization",
+      "referencingAttribute": "na_b3_organization",
+      "referencingEntity": "b3_membership",
+      "metadataId": "b7cf9d9b-2fa8-eb11-b1ae-000d3ad98f13"
+    },
+    {
+      "referencedAttribute": "b3_organizationid",
+      "referencedEntity": "b3_organization",
+      "referencingAttribute": "na_central_organization_id",
+      "referencingEntity": "account",
+      "metadataId": "058cd39c-b24b-ec11-8f8e-000d3ab7474d"
+    },
+    {
+      "referencedAttribute": "b3_organizationid",
+      "referencedEntity": "b3_organization",
+      "referencingAttribute": "na_local_union",
+      "referencingEntity": "incident",
+      "metadataId": "cbe25a60-1dc2-eb11-bacc-000d3ab9f193"
+    },
+    {
+      "referencedAttribute": "b3_organizationid",
+      "referencedEntity": "b3_organization",
+      "referencingAttribute": "b3_organization",
+      "referencingEntity": "b3_assignment",
+      "metadataId": "22040294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_organization_typeid",
+      "referencedEntity": "b3_organization_type",
+      "referencingAttribute": "b3_organization_type",
+      "referencingEntity": "b3_organization",
+      "metadataId": "804afa99-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_schoolid",
+      "referencedEntity": "b3_school",
+      "referencingAttribute": "b3_school_id",
+      "referencingEntity": "b3_entry",
+      "metadataId": "ba4afa99-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_schoolid",
+      "referencedEntity": "b3_school",
+      "referencingAttribute": "na_school_higher_id",
+      "referencingEntity": "b3_entry",
+      "metadataId": "c7cf9d9b-2fa8-eb11-b1ae-000d3ad98f13"
+    },
+    {
+      "referencedAttribute": "b3_schoolid",
+      "referencedEntity": "b3_school",
+      "referencingAttribute": "b3_school",
+      "referencingEntity": "b3_education",
+      "metadataId": "47050294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_employment_categoryid",
+      "referencedEntity": "b3_employment_category",
+      "referencingAttribute": "b3_employment_category_id",
+      "referencingEntity": "b3_entry",
+      "metadataId": "7d050294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_employment_categoryid",
+      "referencedEntity": "b3_employment_category",
+      "referencingAttribute": "b3_employment_category_id",
+      "referencingEntity": "b3_employment",
+      "metadataId": "69050294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_subcategoryid",
+      "referencedEntity": "b3_subcategory",
+      "referencingAttribute": "b3_subcategory_id",
+      "referencingEntity": "incident",
+      "metadataId": "de4afa99-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_assignment_typeid",
+      "referencedEntity": "b3_assignment_type",
+      "referencingAttribute": "b3_assignment_type",
+      "referencingEntity": "b3_assignment",
+      "metadataId": "41040294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_educationid",
+      "referencedEntity": "b3_education",
+      "referencingAttribute": "b3_education_id",
+      "referencingEntity": "b3_entry",
+      "metadataId": "06050294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_reasonid",
+      "referencedEntity": "b3_reason",
+      "referencingAttribute": "b3_reason_id",
+      "referencingEntity": "b3_membership",
+      "metadataId": "aa4afa99-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "na_web_roleid",
+      "referencedEntity": "na_web_role",
+      "referencingAttribute": "na_web_roleid",
+      "referencingEntity": "na_person_web_role",
+      "metadataId": "91e97b08-bba0-ee11-be37-0022489fd4e4"
+    },
+    {
+      "referencedAttribute": "b3_occupational_titleid",
+      "referencedEntity": "b3_occupational_title",
+      "referencingAttribute": "b3_occupational_title_id",
+      "referencingEntity": "b3_entry",
+      "metadataId": "534afa99-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_occupational_titleid",
+      "referencedEntity": "b3_occupational_title",
+      "referencingAttribute": "b3_occupational_title_id",
+      "referencingEntity": "b3_employment",
+      "metadataId": "404afa99-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "incidentid",
+      "referencedEntity": "incident",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "activitypointer",
+      "metadataId": "686f2642-8884-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "incidentid",
+      "referencedEntity": "incident",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "email",
+      "metadataId": "72b42c4b-8884-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "incidentid",
+      "referencedEntity": "incident",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "phonecall",
+      "metadataId": "7eb42c4b-8884-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "incidentid",
+      "referencedEntity": "incident",
+      "referencingAttribute": "regardingobjectid",
+      "referencingEntity": "task",
+      "metadataId": "82b42c4b-8884-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "incidentid",
+      "referencedEntity": "incident",
+      "referencingAttribute": "objectid",
+      "referencingEntity": "annotation",
+      "metadataId": "9ab42c4b-8884-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "incidentid",
+      "referencedEntity": "incident",
+      "referencingAttribute": "existingcase",
+      "referencingEntity": "incident",
+      "metadataId": "8d69337c-8884-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "incidentid",
+      "referencedEntity": "incident",
+      "referencingAttribute": "masterid",
+      "referencingEntity": "incident",
+      "metadataId": "9469337c-8884-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "incidentid",
+      "referencedEntity": "incident",
+      "referencingAttribute": "parentcaseid",
+      "referencingEntity": "incident",
+      "metadataId": "9c69337c-8884-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "incidentid",
+      "referencedEntity": "incident",
+      "referencingAttribute": "originatingcaseid",
+      "referencingEntity": "lead",
+      "metadataId": "a569337c-8884-eb11-b1ab-000d3ab61940"
+    },
+    {
+      "referencedAttribute": "incidentid",
+      "referencedEntity": "incident",
+      "referencingAttribute": "na_gallraradid",
+      "referencingEntity": "na_deletion",
+      "metadataId": "e478e39e-36a9-ec11-9840-000d3abad968"
+    },
+    {
+      "referencedAttribute": "b3_incident_typeid",
+      "referencedEntity": "b3_incident_type",
+      "referencingAttribute": "b3_incident_type_id",
+      "referencingEntity": "incident",
+      "metadataId": "c7050294-2da8-eb11-b1ac-000d3ad980d1"
+    },
+    {
+      "referencedAttribute": "b3_incident_typeid",
+      "referencedEntity": "b3_incident_type",
+      "referencingAttribute": "b3_incident_type_id",
+      "referencingEntity": "b3_subcategory",
+      "metadataId": "ba050294-2da8-eb11-b1ac-000d3ad980d1"
+    }
+  ]
